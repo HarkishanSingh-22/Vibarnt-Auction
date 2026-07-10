@@ -112,7 +112,11 @@ function Hero() {
           </div>
           
           
-          
+          <div className="hero-cards">
+            <div className="cards">
+              
+            </div>
+          </div>
         </div>
       </div>
     </>

@@ -6,5 +6,8 @@
      background-image: url(./assets/img-5.jpeg);
      background-repeat: no-repeat;
      background-size: cover;
-     /* padding: 52px 92px; */
+     
+}
+.inner-footer{
+     background-color: #151516;
 }

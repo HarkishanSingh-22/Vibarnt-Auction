@@ -54,7 +54,7 @@ function Navbar() {
 
           <div className="nav-btn flex items-center gap-4">
             <Link
-              to="/Register"
+              to="auth/register"
               className="px-5 py-2 rounded-md bg-red-600 text-white font-semibold hover:bg-red-700 transition-all duration-300"
             >
               Register
