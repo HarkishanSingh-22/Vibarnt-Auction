@@ -1,7 +1,2 @@
 @import "tailwindcss";
 
-@layer {
-    .wrapper {
-        padding: 16px 84px;
-    }
-}

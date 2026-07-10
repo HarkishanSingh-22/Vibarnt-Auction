@@ -1,13 +1,14 @@
- import "../App.css"
+import "../App.css";
+import Card from "../Components/Cards";
+import Hero from "../Components/Hero";
 
+function Home() {
+  return (
+    <>
+      <Hero></Hero>
 
-function Home(){
-    return(
-        <>
-        <div className="Home-Container">
-            <h1>Home Page</h1>
-            </div>
-        </>
-    )
+      <Card></Card>
+    </>
+  );
 }
-export default Home
+export default Home;
