@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Residential" },
+  { "id": 2, "name": "Commercial" },
+  { "id": 3, "name": "Industrial" },
+  { "id": 4, "name": "Agricultural Land" },
+  { "id": 5, "name": "Plot" },
+  { "id": 6, "name": "Office" },
+  { "id": 7, "name": "Warehouse" },
+  { "id": 8, "name": "Shop" }
+]
