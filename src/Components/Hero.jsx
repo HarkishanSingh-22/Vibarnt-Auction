@@ -12,7 +12,7 @@ import assets from "../temp-data/assets.json";
 function Hero() {
   return (
     <>
-      <div className="search-container w-full bg-white py-10 px-4 mb-5">
+      <div className="search-container w-full bg-white px-5 md:px-10 lg:px-[124px] py-4 mb-5">
         <div className="serach-box max-w-7xl mx-auto sm:px-2 lg:px-8">
           <div className="search-inner w-full bg-white rounded-2xl shadow-xl border border-gray-200 p-4 sm:p-4 md:p-6 lg:p-8">
 

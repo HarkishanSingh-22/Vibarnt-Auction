@@ -7,7 +7,7 @@ import { SiMaildotru } from "react-icons/si";
 function Footer() {
   return (
     <>
-      <div className="Footer-Container flex justify-center px-4 mt-5">
+      <div className="Footer-Container flex justify-center px-5 md:px-10 lg:px-[124px] py-4 mt-5">
         <div className="inner-footer w-full max-w-[1200px] p-5 sm:p-6 md:p-8 rounded-xl mb-5">
 
           <div className="flex flex-col md:flex-row items-center md:items-start justify-between gap-6 border-b border-white pb-6">
