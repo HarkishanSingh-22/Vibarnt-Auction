@@ -8,7 +8,7 @@ import CardImg1 from "../assets/img-9.jpeg";
 function Card() {
   return (
     <>
-      <div className="w-full p-4 md:p-6 lg:p-10 mt-5 bg-gray-100">
+      <div className="w-full px-5 md:px-10 lg:px-[149px] py-4 mt-5 bg-gray-100">
         <div className=" mt-4 mb-6 ">
           <div className="flex justify-between items-center">
             <h1 className="text-2xl font-bold ">Upcoming Auction Properties</h1>

@@ -23,8 +23,8 @@ function Navbar() {
   return (
     <>
       <nav className="max-w-7xl px-10   bg-white  ">
-        <div className=" w-full  Nav-Container  flex flex-wrap items-center justify-between h-20  ">
-          <div className="inner-nav flex flex-wrap items-center   ">
+        <div className=" w-full  Nav-Container  flex items-center justify-between px-5 md:px-10 lg:px-[124px] py-4 h-20 gap-5 ">
+          <div className="inner-nav flex flex-wrap items-center sm:gap-4   ">
             <img
               src={VibrantLogo}
               className="nav-logo w-54 h-12 object-contain"
